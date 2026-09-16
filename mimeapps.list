@@ -1,0 +1,25 @@
+[Default Applications]
+x-scheme-handler/http=vivaldi-stable.desktop
+x-scheme-handler/https=vivaldi-stable.desktop
+text/html=vivaldi-stable.desktop
+x-scheme-handler/viber=viber.desktop
+application/zip=org.gnome.FileRoller.desktop
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=onlyoffice-desktopeditors.desktop
+image/jpeg=phototonic.desktop
+video/mp4=org.kde.haruna.desktop
+image/png=phototonic.desktop
+application/x-zerosize=onlyoffice-desktopeditors.desktop
+application/pdf=org.gnome.Evince.desktop
+
+[Added Associations]
+x-scheme-handler/viber=viber.desktop;
+application/zip=org.gnome.FileRoller.desktop;
+text/plain=org.kde.kate.desktop;
+application/json=org.kde.kate.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=onlyoffice-desktopeditors.desktop;
+image/jpeg=org.kde.gwenview.desktop;phototonic.desktop;
+text/x-shellscript=code.desktop;
+application/pdf=phototonic.desktop;userapp-evince -MVBKV3.desktop;org.gnome.Evince.desktop;
+video/mp4=org.kde.haruna.desktop;
+image/png=org.kde.gwenview.desktop;phototonic.desktop;
+application/x-zerosize=dev.zed.Zed.desktop;onlyoffice-desktopeditors.desktop;
